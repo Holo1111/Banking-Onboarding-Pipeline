@@ -1,0 +1,8 @@
+{
+  "acct_no": "account_number",
+  "counterparty_acct": "counterparty_account",
+  "txn_type": "transaction_type",
+  "txn_amt": "amount",
+  "currency": "currency_code",
+  "txn_ts": "transaction_timestamp"
+}
