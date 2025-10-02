@@ -1,6 +1,6 @@
 # Banking Data Onboarding Pipeline (Java + PostgreSQL)
 
-A minimal, Verafin-style onboarding simulation that:
+
 - **Simulates banking transaction data** (wires, ACH, deposits)
 - **Maps raw banking fields** (e.g., `acct_no` → `account_number`) to a **standardized schema**
 - **Validates** rows (date format, negative amounts, enums)
